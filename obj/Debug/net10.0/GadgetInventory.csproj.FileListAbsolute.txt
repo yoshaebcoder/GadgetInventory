@@ -95,3 +95,4 @@ C:\Users\JJCAguirre\GadgetInventory\obj\Debug\net10.0\refint\GadgetInventory.dll
 C:\Users\JJCAguirre\GadgetInventory\obj\Debug\net10.0\GadgetInventory.pdb
 C:\Users\JJCAguirre\GadgetInventory\obj\Debug\net10.0\GadgetInventory.genruntimeconfig.cache
 C:\Users\JJCAguirre\GadgetInventory\obj\Debug\net10.0\ref\GadgetInventory.dll
+C:\Users\JJCAguirre\GadgetInventory\obj\Debug\net10.0\GadgetInventory.sourcelink.json
